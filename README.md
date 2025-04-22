@@ -16,9 +16,9 @@ They are also implementing Special Offers. The initial offer will be "buy one re
 Here is how the code works:
 
 in add-product.php, we initize the following:
-1. Products
-2. Delivery Rules
-3. Offers
+- Products
+- Delivery Rules
+- Offers
 
 1. Products - Includes product code, description and pricing
 
